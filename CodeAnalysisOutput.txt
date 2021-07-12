@@ -1,0 +1,11 @@
+Code Analysis Done using MS Visual Studio:
+
+1>------ Rebuild All started: Project: Topology Manager, Configuration: Debug Any CPU ------
+1>  Topology Manager -> C:\Users\Moh\source\repos\Topology Manager\Topology Manager\bin\Debug\Topology Manager.exe
+1>  Running Code Analysis...
+1>  Code Analysis Complete -- 0 error(s), 0 warning(s)
+2>------ Rebuild All started: Project: Topology_Manager.UnitTests, Configuration: Debug Any CPU ------
+2>  Topology_Manager.UnitTests -> C:\Users\Moh\source\repos\Topology Manager\Topology_Manager.UnitTests\bin\Debug\Topology_Manager.UnitTests.dll
+2>  Running Code Analysis...
+2>  Code Analysis Complete -- 0 error(s), 0 warning(s)
+========== Rebuild All: 2 succeeded, 0 failed, 0 skipped ==========
